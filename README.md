@@ -6,5 +6,7 @@ A space shooter game by Travis Luong
 
 Rotate the spaceship and shoot asteroids before the ship gets destroyed.
 
+https://mngz47.github.io/html5-asteroids/
+
 ##License
 html5 asteroids is released under the [MIT License](http://opensource.org/licenses/MIT).
